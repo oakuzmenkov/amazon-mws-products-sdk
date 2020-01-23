@@ -10,7 +10,9 @@
     },
     "license": "Apache",
     "autoload": {
-        "files": ["src/autoload.php"]
+        "classmap": [
+            "src"
+        ]
     },
     "minimum-stability": "stable"
 }
