@@ -1,0 +1,16 @@
+{
+    "name": "oakuzmenkov/amazon-mws-products-sdk",
+    "description": "Official Amazon MWS PHP Client",
+    "type": "library",
+    "require": {
+        "php": "^7.3"
+    },
+    "require-dev": {
+        "php": "^7.3"
+    },
+    "license": "Apache",
+    "autoload": {
+        "files": ["src/autoload.php"]
+    },
+    "minimum-stability": "stable"
+}
